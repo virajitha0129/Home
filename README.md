@@ -27,4 +27,3 @@ All the images are converted to webp by GitHub user: CvC1207 https://github.com/
 Some more contribution goes to Tanmoy Modi IIIT Pune https://github.com/tanmaymodi , Ankit Kumar IIIT Guwahati https://github.com/iamankitkumar08062001 , Piyush Gupta IIIT Pune https://github.com/piyushg9794
 Vibhanshu Jain IIIT Raichur 2019 batch https://github.com/vibhanshujainiiitr (https://vibhanshujainiiitr.github.io)
 The landing page (https://cssgradient.io/ ), About Us section (Except Content Credit), Our Campus, Join Community; , News, All IIIT-Logo slider (https://owlcarousel2.github.io/OwlCarousel2 ), Subsription form ( https://formspree.io ), Search Engine Optimisation ( SEO ), Google Analytics (http://analytics.google.com/), Google Search Console ( https://search.google.com/ ); Special Mention ( https://michalsnik.github.io/aos )
-
